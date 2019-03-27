@@ -9,7 +9,7 @@ Summary and links to other MUKTEK backed-up documents
 
 
 ## Assignments 
-1. [assignment--js-object-basics-readme] (https://github.com/ecarralt/assignment--js-object-basics-readme)
+1. [assignment--js-object-basics-readme](https://github.com/ecarralt/assignment--js-object-basics-readme)
 2. 
 
 
