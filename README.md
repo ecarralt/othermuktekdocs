@@ -12,7 +12,7 @@ Summary and links to other MUKTEK backed-up documents
 1. [assignment--js-object-basics-readme](https://github.com/ecarralt/assignment--js-object-basics-readme)
 2. 
 
-## Assignment Keys
+## Lab and Assignment Keys
 1. [key--assignment--fullstack-js-11-protected-routes](https://github.com/ecarralt/key--assignment--fullstack-js-11-protected-routes)
 2. [key--assignment--fullstack-js-02-server-router](https://github.com/ecarralt/key--assignment--fullstack-js-02-server-router)
 3. [key--lab--responsive-design-natgeo](https://github.com/ecarralt/key--lab--responsive-design-natgeo)
