@@ -20,7 +20,8 @@ Summary and links to other MUKTEK backed-up documents
 
 
 ## Modules
-1. 
+1. [module--es6-syntax](https://github.com/ecarralt/module--es6-syntax)
+2. [module--object-context](https://github.com/ecarrlat/module--object-context)
 
 
 ## Activities
