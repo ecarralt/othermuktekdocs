@@ -22,6 +22,18 @@ Summary and links to other MUKTEK backed-up documents
 ## Modules
 1. [module--es6-syntax](https://github.com/ecarralt/module--es6-syntax)
 2. [module--object-context](https://github.com/ecarrlat/module--object-context)
+3. [module--pubsub](https://github.com/ecarralt/module--pubsub)
+4. [module--mvc-models](https://github.com/ecarralt/module--mvc-models)
+5. [module--react-state-complex](https://github.com/ecarralt/module--react-state-complex)
+6. [module--js-big-picture](https://github.com/ecarralt/module--js-big-picture)
+7. [module--express-router](https://github.com/ecarralt/module--express-router)
+8. [module--ejs-views](https://github.com/ecarralt/module--ejs-views)
+9. [module--http-headers](https://github.com/ecarralt/module--http-headers)
+10. [module--app-server-routing](https://github.com/ecarralt/module--app-server-routing)
+11. [module--app-relational-data](https://github.com/ecarralt/module--app-relational-data)
+12. [module--app-middleware](https://github.com/ecarralt/module--app-middleware)
+13. [module--app-api-layer](https://github.com/ecarralt/module--app-api-layer)
+14. [module--map-filter-reduce](https://github.com/ecarralt/module--map-filter-reduce)
 
 
 ## Activities
