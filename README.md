@@ -17,6 +17,7 @@ Summary and links to other MUKTEK backed-up documents
 2. [key--assignment--fullstack-js-02-server-router](https://github.com/ecarralt/key--assignment--fullstack-js-02-server-router)
 3. [key--lab--responsive-design-natgeo](https://github.com/ecarralt/key--lab--responsive-design-natgeo)
 4. [key--assignment--scss-basics](https://github.com/ecarralt/key--assignment--scss-basics)
+5. [key--project-devjobs](https://github.com/ecarralt/key--project-devjobs)
 
 
 ## Modules
