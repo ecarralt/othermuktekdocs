@@ -45,3 +45,8 @@ Summary and links to other MUKTEK backed-up documents
 
 ## Tools
 1. [MUKTEK Academy LMS System](https://github.com/ecarralt/MUKTEKAcademy)
+
+## Assessments and Skills Evaluations
+1. [assessment--html-css](https://github.com/ecarralt/assessment--html-css)
+2. [skills-evaluation](https://github.com/ecarralt/skills-evaluation)
+
